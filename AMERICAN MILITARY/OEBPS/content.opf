@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="p9781137273420">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:creator>John Vogler</dc:creator>
+<dc:source>URN:ISBN:978-0-230-00800-7</dc:source>
+<dc:identifier id="p9781137273420">URN:ISBN:978-0-230-00800-7</dc:identifier>
+<dc:publisher>Palgrave macmillan</dc:publisher>
+<dc:language>en</dc:language>
+<dc:title>CLIMATE CHANGE IN WORLD POLITICS</dc:title>
+<dc:date> 2015</dc:date>
+</metadata>
+<manifest>
+
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="css" href="css/stylesheet.css" media-type="text/css"/>
+
+<item id="main_content" href="xhtml/main_content.html" media-type="application/xhtml+xml"/>
+
+</manifest>
+<spine toc="ncx">
+
+
+<itemref idref="content1" linear="yes"/>
+
+
+
+</spine>
+<guide>
+<reference type="text" title="main_content" href="xhtml/main_content.html"/>
+</guide>
+</package>

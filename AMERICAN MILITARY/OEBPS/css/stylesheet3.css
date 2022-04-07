@@ -1,0 +1,54 @@
+.noindent
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:0.5em;
+	font-size:110%;
+	text-align:justify;
+	text-indent:0em;
+}
+
+.indent
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:0.5em;
+	font-size:110%;
+	text-align:justify;
+	text-indent:1em;
+	
+	
+}
+
+.right
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:1em;
+	font-size:110%;
+	text-align:right;
+	text-indent:1em
+}
+.rightside
+{
+	margin-left:1em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:0em;
+	font-size:110%;
+	text-align:justify;
+	text-indent:0em
+}
+.space
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top :0em;
+	margin-bottom:1em;
+	
+	text-indent:0em;
+	
+}

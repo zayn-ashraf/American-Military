@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="URN:ISBN:978-0-230-00800-7"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="226"/>
+<meta name="dtb:maxPageNumber" content="226"/>
+</head>
+<docTitle>
+<text>How to Win Every Argument</text>
+</docTitle>
+
+<navMap>
+
+
+<navPoint id="toc1" playOrder="1"><navLabel><text>Copyright</text></navLabel><content src="xhtml/copyright.html"/></navPoint>
+<navPoint id="toc2" playOrder="2"><navLabel><text>Contents</text></navLabel><content src="xhtml/main_content.html"/></navPoint>
+<navPoint id="toc3" playOrder="3"><navLabel><text>Acknowledgements</text></navLabel><content src="xhtml/acknowledgements.html"/></navPoint>
+<navPoint id="toc4" playOrder="4"><navLabel><text>Introduction</text></navLabel><content src="xhtml/introduction.html"/></navPoint>
+<navPoint id="toc5" playOrder="5"><navLabel><text>Content1</text></navLabel><content src="xhtml/content1.html"/></navPoint>
+<navPoint id="toc6" playOrder="6"><navLabel><text>Content2</text></navLabel><content src="xhtml/contents2.html"/></navPoint>
+<navPoint id="toc7" playOrder="7"><navLabel><text>Content3</text></navLabel><content src="xhtml/contents3.html"/></navPoint>
+
+
+
+</navMap>
+</ncx>
